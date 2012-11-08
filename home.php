@@ -1,6 +1,6 @@
 <!-- 
  *
- * php version of home blah
+ * php version of home
  *
 -->
 
